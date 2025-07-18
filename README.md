@@ -17,7 +17,11 @@ Task 5: Basic File Handing
 ![WhatsApp Image 2025-07-18 at 06 07 33_cdf23c38](https://github.com/user-attachments/assets/7e5c5d00-02f0-4941-9ae7-2f1ad197f694)
 
 Task 6: Create a simple GUI Application
+
+
 ![WhatsApp Image 2025-07-18 at 06 07 47_7c6e88cd](https://github.com/user-attachments/assets/9666dacd-656c-4d62-861b-32d836eaddb9)
+
+
 ![WhatsApp Image 2025-07-18 at 06 07 33_fa474084](https://github.com/user-attachments/assets/410e876e-7f02-4f68-a241-8f85b9b4d171)
 
 
@@ -33,7 +37,10 @@ Task 9: Creating a simple web application with java
 
 
 Task 10: Mini Project
+
 ![WhatsApp Image 2025-07-18 at 06 07 34_ccfe426b](https://github.com/user-attachments/assets/e7637b8f-65c6-4273-b9e2-568a39cdb33d)
+
+
 ![WhatsApp Image 2025-07-18 at 06 07 34_c83954b4](https://github.com/user-attachments/assets/bbe7c963-4b9f-46c1-9dde-80bd00dde82f)
 
 All tasks were completed within the stipulated timeframe.
