@@ -37,11 +37,11 @@ Task 9: Creating a simple web application with java
 
 
 Task 10: Mini Project
+![WhatsApp Image 2025-07-18 at 06 07 34_c83954b4](https://github.com/user-attachments/assets/bbe7c963-4b9f-46c1-9dde-80bd00dde82f)
+
 
 ![WhatsApp Image 2025-07-18 at 06 07 34_ccfe426b](https://github.com/user-attachments/assets/e7637b8f-65c6-4273-b9e2-568a39cdb33d)
 
-
-![WhatsApp Image 2025-07-18 at 06 07 34_c83954b4](https://github.com/user-attachments/assets/bbe7c963-4b9f-46c1-9dde-80bd00dde82f)
 
 All tasks were completed within the stipulated timeframe.
 
